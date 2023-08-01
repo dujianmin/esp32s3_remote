@@ -1,0 +1,5 @@
+dependencies:
+  idf: ">=4.4.1"
+  usb_stream:
+    version: "*"
+    override_path: "../../../../../components/usb/usb_stream"
